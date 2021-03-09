@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/RenaWagner/imageboard-server/issues"
   },
-  "homepage": "https://github.com/RenaWagner/imageboard-server#readme"
+  "homepage": "https://github.com/RenaWagner/imageboard-server#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.5.1",
+    "sequelize": "^6.5.0",
+    "sequelize-cli": "^6.2.0"
+  }
 }
