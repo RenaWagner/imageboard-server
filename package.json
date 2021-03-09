@@ -18,7 +18,9 @@
   },
   "homepage": "https://github.com/RenaWagner/imageboard-server#readme",
   "dependencies": {
+    "bcrypt": "^5.0.1",
     "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
     "pg": "^8.5.1",
     "sequelize": "^6.5.0",
     "sequelize-cli": "^6.2.0"
